@@ -16,13 +16,13 @@ This repository contains hands-on notebooks, experiments, and implementations co
 
 ## Repository Structure
 
-├── numpy/          # Numerical computing and array operations
-├── pandas/         # Data manipulation and analysis
-├── pillow/         # Image processing fundamentals
-├── pytorch/        # Deep learning concepts and implementations
-├── torchvision/   # Computer vision datasets, transforms, and models
-├── sklearn/        # Machine learning utilities and evaluation
-├── dsa-java/       # Data Structures and Algorithms in Java
+├── numpy/         
+├── pandas/        
+├── pillow/         
+├── pytorch/        
+├── torchvision/models
+├── sklearn/        
+├── dsa-java/      
 
 ## Goal
 
