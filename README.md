@@ -12,7 +12,6 @@ This repository contains hands-on notebooks, experiments, and implementations co
 - PyTorch
 - Torchvision
 - Scikit-Learn
-- Java
 
 ## Repository Structure
 
@@ -22,7 +21,7 @@ This repository contains hands-on notebooks, experiments, and implementations co
 ├── pytorch/        
 ├── torchvision/models
 ├── sklearn/        
-├── dsa-java/      
+     
 
 ## Goal
 
